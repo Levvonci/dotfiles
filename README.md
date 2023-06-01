@@ -7,3 +7,9 @@
 i'm using a personal fetch from NvChad
 
 ![alt text](https://github.com/Levvonci/dotfiles/blob/main/.dotfiles_image/Screenshot%202023-06-01%20at%2009.25.03.png)
+
+# Sketchybar
+
+Sketchybar configuration from https://github.com/FelixKratz/SketchyBar
+
+!(https://github.com/Levvonci/dotfiles/blob/main/.dotfiles_image/Screenshot%202023-06-01%20at%2010.09.53.png)
