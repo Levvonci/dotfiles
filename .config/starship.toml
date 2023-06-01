@@ -1,0 +1,50 @@
+
+# ███████╗████████╗ █████╗ ██████╗ ███████╗██╗  ██╗██╗██████╗
+# ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██║  ██║██║██╔══██╗
+# ███████╗   ██║   ███████║██████╔╝███████╗███████║██║██████╔╝
+# ╚════██║   ██║   ██╔══██║██╔══██╗╚════██║██╔══██║██║██╔═══╝
+# ███████║   ██║   ██║  ██║██║  ██║███████║██║  ██║██║██║
+# ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝
+# The minimal, blazing-fast, and infinitely customizable prompt
+# https://starship.rs
+
+[character]
+vicmd_symbol= "[](green)"
+success_symbol= "[❯](purple)"
+
+[directory]
+style = "white bold"
+
+[battery]
+charging_symbol = '󰂄'
+
+
+[package]
+disabled = true
+
+[username]
+disabled = true
+
+[hostname]
+disabled = true
+
+[aws]
+disabled = true
+
+[docker_context]
+disabled = true
+
+[git_branch]
+disabled = false
+
+[git_commit]
+disabled = false
+
+[git_state]
+disabled = false
+
+[git_metrics]
+disabled = false
+
+[git_status]
+disabled = false
