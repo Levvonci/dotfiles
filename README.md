@@ -4,7 +4,7 @@
 # Nvim
 Personal config for NvChad
 
-|[nvim](https://github.com/Levvonci/dotfiles/blob/main/.dotfiles_image/Screenshot%202023-06-01%20at%2009.25.03.png)
+![nvim](https://github.com/Levvonci/dotfiles/blob/main/.dotfiles_image/Screenshot%202023-06-01%20at%2009.25.03.png)
 
 # Sketchybar
 Sketchybar from https://github.com/FelixKratz/SketchyBar
